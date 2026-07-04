@@ -1,16 +1,20 @@
-## Hi there 👋
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=20C20E&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Raphael+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Raphael Welcome to my Profile! animated typed out">
+<img  src="assests/borderseperator.gif">
 
-<!--
-**RaphaelPhillipe07/RaphaelPhillipe07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my GitHub! 💎
 
-Here are some ideas to get you started:
+#### Hello, my name is Raphael, I'm a student Information Systems in Federal Institute of Alagoas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align = "left">
+<img src="https://komarev.com/ghpvc/?username=raphaelphillipe07&color=blue" alt="raphaelphillipe07"> •
+<img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/raphaelphillipe07?label=Followers&style=social"> •
+</p>
+
+![](8f3d23884b9daf040020d979dcc75489.jpg)
+
+
+## Status 📚
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raphaelphillipe07&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raphaelphillipe07&theme=2077&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raphaelphillipe07&theme=2077)
